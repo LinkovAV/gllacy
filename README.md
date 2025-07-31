@@ -1,2 +1,2 @@
 Тестовый сайт Gllacy->
-[Демо][https://demiurgav.github.io/gllacy/]
+[Демо][https://linkovav.github.io/gllacy/]
